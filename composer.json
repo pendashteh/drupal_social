@@ -23,11 +23,11 @@
     "require": {
         "blackfire/php-sdk": "^v1.27.1",
         "drupal/redis": "^1.5",
-        "goalgorilla/open_social": "dev-main"
+        "goalgorilla/open_social": "dev-dependabot/composer/drupal/core-composer-scaffold-approx-9.4.2"
     },
     "require-dev": {
         "drupal/upgrade_status": "^3.11",
-        "goalgorilla/open_social_dev": "dev-main",
+        "goalgorilla/open_social_dev": "dev-dependabot/composer/drupal/core-dev-approx-9.4.2",
         "palantirnet/drupal-rector": "^0.12",
         "phpmd/phpmd": "^2.10",
         "slevomat/coding-standard": "^7.0",
